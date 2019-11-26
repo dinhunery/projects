@@ -1,0 +1,16 @@
+A partir da análise da EAP foram identificados alguns riscos para o projeto, dos quais destacam-se:
+
+1- Risco: Estrutura de rede da academia não estar preparada para a instalação do sistema
+   Probabilidade de ocorrência: 4
+   Impacto: No cronograma e nos custos do projeto devido a necessidade de estruturação
+   Grau de impacto: 4
+
+2- Risco: Sistema financeiro estruturado com linguagem complexa
+   Probabilidade de ocorrência: 4
+   Impacto: No cronograma e nos custos do projeto devido a necessidade de mais horas de implementação
+   Grau de impacto: 5
+
+3- Risco: Alguma funcionalidade não atender à expectativa do cliente
+   Probabilidade de ocorrência: 5
+   Impacto: No cronograma devido a necessidade de mais horas de implementação
+   Grau de impacto: 3
